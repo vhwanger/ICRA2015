@@ -1,0 +1,113 @@
+\begin{thebibliography}{10}
+
+\bibitem{Atkeson:2003}
+C.~Atkeson and J.~Morimoto.
+\newblock Nonparametric representation of policies and value functions: A
+  trajectory-based approach.
+\newblock In {\em Advances in Neural Information Processing Systems (NIPS)},
+  2003.
+
+\bibitem{Berenson:2012}
+Dmitry Berenson, Pieter Abbeel, and Ken Goldberg.
+\newblock A robot path planning framework that learns from experience.
+\newblock In {\em ICRA}, 2012.
+
+\bibitem{bohlin2000path}
+Robert Bohlin and EE~Kavraki.
+\newblock Path planning using lazy prm.
+\newblock In {\em Robotics and Automation, 2000. Proceedings. ICRA'00. IEEE
+  International Conference on}, volume~1, pages 521--528. IEEE, 2000.
+
+\bibitem{Bruce:2002}
+J.~Bruce and M.~Veloso.
+\newblock Real-time randomized path planning for robot navigation.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems}, 2002.
+
+\bibitem{cohen2013single}
+Benjamin Cohen, Sachin Chitta, and Maxim Likhachev.
+\newblock Single-and dual-arm motion planning with heuristic search.
+\newblock {\em The International Journal of Robotics Research}, page
+  0278364913507983, 2013.
+
+\bibitem{cohen2012generic}
+Benjamin Cohen, Ioan~Alexandru Sucan, and Sachin Chitta.
+\newblock A generic infrastructure for benchmarking motion planners.
+\newblock In {\em Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ
+  International Conference on}, pages 589--595. IEEE, 2012.
+
+\bibitem{ompl}
+Ioan~A. \c{S}ucan, Mark Moll, and Lydia~E. Kavraki.
+\newblock The {O}pen {M}otion {P}lanning {L}ibrary.
+\newblock {\em {IEEE} Robotics \& Automation Magazine}, 2012.
+\newblock To appear.
+
+\bibitem{Ferguson:2006}
+D.~Ferguson, N.~Kalra, and A.~T. Stenz.
+\newblock Replanning with rrts.
+\newblock In {\em IEEE International Conference on Robotics and Automation},
+  May 2006.
+
+\bibitem{Jetchev:2010}
+Nikolay Jetchev and Marc Toussaint.
+\newblock Trajectory prediction: Learning to map situations to robot
+  trajectories.
+\newblock In {\em IEEE International Conference on Robotics and Automation},
+  2010.
+
+\bibitem{Jiang:2007}
+Xiaoxi Jiang and Marcelo Kallmann.
+\newblock Learning humanoid reaching tasks in dynamic environments.
+\newblock In {\em IEEE International Conference on Intelligent Robots and
+  Systems}, 2007.
+
+\bibitem{Kavraki:1996}
+L.~E. Kavraki, P.~Svestka, J.-C Latombe, and M.~H. Overmars.
+\newblock Probabilistic roadmaps for path planning in high-dimensional
+  configuration spaces.
+\newblock {\em IEEE Transactions on Robotics and Automation}, 12(4):566--580,
+  1996.
+
+\bibitem{Lien:2005}
+J.~Lien and Y.~Lu.
+\newblock Planning motion in environments with similar obstacles.
+\newblock In {\em Proceedings of the Robotics, Science and Systems Conference},
+  2005.
+
+\bibitem{Liu:2009}
+C.~Liu and C.~G. Atkeson.
+\newblock Standing balance control using a trajectory library.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems}, 2009.
+
+\bibitem{pan2012fcl}
+Jia Pan, Sachin Chitta, and Dinesh Manocha.
+\newblock Fcl: A general purpose library for collision and proximity queries.
+\newblock In {\em Robotics and Automation (ICRA), 2012 IEEE International
+  Conference on}, pages 3859--3866. IEEE, 2012.
+
+\bibitem{PhillipsRSS:2012}
+Mike Phillips, Benjamin Cohen, Sachin Chitta, and Maxim Likhachev.
+\newblock {E-Graphs: Bootstrapping Planning with Experience Graphs}.
+\newblock In {\em Proceedings of the Robotics, Science and Systems Conference},
+  2012.
+
+\bibitem{Stolle:2006}
+M.~Stolle and C.~Atkeson.
+\newblock Policies based on trajectory libraries.
+\newblock In {\em IEEE International Conference on Robotics and Automation},
+  2006.
+
+\bibitem{Stolle:2007}
+M.~Stolle, H.~Tappeiner, J.~Chestnutt, and C.~Atkeson.
+\newblock Transfer of policies based on trajectory libraries.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems}, 2007.
+
+\bibitem{Zucker:2007}
+M.~Zucker, J.~Kuffner, and M.~Branicky.
+\newblock Multipartite rrts for rapid replanning in dynamic environments.
+\newblock In {\em IEEE International Conference on Robotics and Automation},
+  2007.
+
+\end{thebibliography}
